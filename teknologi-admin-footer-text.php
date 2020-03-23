@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Danish Board of Technology admin footer
  * Description: Replace the admin footer text with one customised for sites built by The Danish Board of Technology
- * Version: 0.0.1
+ * Version: 1.0.0
  * Plugin URI: https://github.com/teknologi/teknologi-admin-footer-text
  * Author: Hans Czajkowski Jørgensen
  * Text Domain: teknologi_admin_footer_text
